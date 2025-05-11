@@ -31,7 +31,7 @@ Members Contribution:
 Raydan Tagub - Code editor
 Diane Bona - Suggestion with the overall design
 Renzo Jazareno - Overall suggestion
-Jerri Mae Dela Torre
+Jerri Mae Dela Torre - Laptop
 
 Deployment URL
 https://webtechfinal.vercel.app
